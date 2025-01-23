@@ -22,7 +22,7 @@ Comparative Evaluation of Deep Learning Architectures for Retinal Ganglion Cell 
 
 ## Overview
 
-This repository offers  deep learning methods for retinal ganglion cell (RGC) counting. It introduces advanced pre-processing techniques for both input and label datasets, along with an efficient Light-U-Net model. The repository includes a synthetic dataset and a self-generated dataset of whole-mounted mouse retina images. 
+This repository offers  deep learning methods for retinal ganglion cell (RGC) counting. It introduces advanced pre-processing techniques for both input and label datasets, along with an efficient U-Net[2] model. The repository includes a synthetic dataset and a self-generated dataset of whole-mounted mouse retina images. 
 We evaluate FCRN-A [3], our proposed FCRN-A-v2, and U-Net model across both datasets and compare them using a local maxima counting method. 
 
 ---

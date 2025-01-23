@@ -1,0 +1,9 @@
+checkpoints/
+real_data/outputs/
+synth_data/outputs/
+real_data/data_80_gt/
+synth_data/gt/
+.ipynb_checkpoints/
+.ipynb_checkpoints/fcrna_fcrna_v2_unet_real-checkpoint.ipynb 
+*.hdf5
+*.ipynb

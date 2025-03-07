@@ -1,4 +1,4 @@
-In this repository, we compare the performance of two networks ( FCRN-A, FCRN-A-v2, and U-Net) on our subjective problem.
+In this repository, we compare the performance of two networks (FCRN-A, FCRN-A-v2, and U-Net) on our subjective problem.
 
 # Project Title
 Comparative Evaluation of Deep Learning Architectures for Retinal Ganglion Cell Counting: FCRN-A, FCRN-A-v2, and U-Net
